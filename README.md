@@ -29,7 +29,7 @@ The goal of this project was to synthesize a digital component that exhibits the
 
 ## Documentation
 
-- [Project Requirements](Deliverables/project_requirements.pdf)
+- [Project Requirements](Deliverables/Requirements.pdf)
 
 ---
 
