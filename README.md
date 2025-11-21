@@ -1,6 +1,6 @@
 # Reti Logiche Final Project
 
-This repository contains the final project for the Logic Networks course at Politecnico di Milano. The project implements a digital component in VHDL as described in the project specifications. The repository includes the VHDL source code, testbenches, and project documentation.
+This repository contains the final project for the Logic Networks course at Politecnico di Milano. The project implements a digital component in VHDL as described in the project specifications. The repository includes the VHDL source code, testbenches, and project requirements.
 
 ---
 
@@ -14,7 +14,7 @@ The goal of this project was to synthesize a digital component that exhibits the
 
 - `MemoryChannel/src/`: Contains the VHDL source code for the main component.
 - `MemoryChannel/test/`: Contains the testbench files used for simulation.
-- `Deliverables/`: Contains the project requirements and documentation.
+- `Deliverables/`: Contains the project requirements.
 
 ---
 
