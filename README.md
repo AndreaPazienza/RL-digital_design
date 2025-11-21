@@ -1,6 +1,6 @@
-# Reti Logiche Final Project
+# Digital Logic Final Project
 
-This repository contains the final project for the Reti Logiche course at Politecnico di Milano. The project implements a digital component in VHDL as described in the project specifications. The repository includes the VHDL source code, testbenches, and project requirements.
+This repository contains the final project for the Digital Logic course at Politecnico di Milano. The project implements a digital component in VHDL as described in the project specifications. The repository includes the VHDL source code, testbenches, and project requirements.
 
 ---
 
