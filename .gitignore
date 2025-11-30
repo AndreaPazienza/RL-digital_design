@@ -1,4 +1,4 @@
-# File temporanei e di log
+# Vivado logs and temp files
 *.log
 *.jou
 *.wdb
@@ -7,61 +7,35 @@
 *.bak
 *.swp
 *.swo
-*.cache
-*.zip
-*.tar.gz
 
-# File di progetto Vivado
-*.xpr
-*.xise
-*.gise
+# Vivado generated project / build directories
+.sim/
+.syn/
+.impl/
+.runs/
+.hw/
+.Xil/
+.ip_user_files/
+.ip_cache/
+.cache/
+.tmp/
+.srcs/sim_*/
+.srcs/synth_*/
+
+# Bitstreams and generated binaries
 *.bit
 *.bin
 *.mcs
-*.prm
-*.prm.bak
-*.prm~
-*.prm.swp
 
-# Cartelle generate da Vivado
-/sim/
-/syn/
-/impl/
-/tmp/
-/output/
-/work/
-/simv/
-/simv.daidir/
-/bd/
-/.Xil/
-/.ip_user_files/
-/.runs/
-/.srcs/
-/.cache/
-/.design/
-/.ip/
-/.tmp/
-/.history/
-/.lso/
-/.prjx/
-/.sim/
-/.synth/
-/.impl/
-/.hw/
-/.ip_cache/
-
-# File di backup e cache
-*.bak
-*.cache
-*.swp
-*.swo
-*.zip
-*.tar.gz
-
-# File di configurazione locale
+# Local config
 *.ini
 *.cfg
 
-# File di editor e sistema
+# Archives
+*.zip
+*.tar.gz
+
+# OS / editor junk
 .DS_Store
 Thumbs.db
+*~
